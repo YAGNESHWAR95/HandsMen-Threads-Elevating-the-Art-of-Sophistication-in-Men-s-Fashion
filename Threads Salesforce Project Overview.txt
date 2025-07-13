@@ -1,0 +1,22 @@
+Threads: Salesforce Project Overview
+Project Objective
+Build a comprehensive Salesforce data model that:
+
+Enhances customer relationship management
+
+Ensures seamless, centralized business data flow
+
+Maintains data integrity directly from the UI, eliminating backend discrepancies
+
+Integrated Processes & Benefits
+Feature	Purpose	Business Value
+Automated Order Confirmations	Send email updates post-order confirmation	Improves customer trust and communication
+Dynamic Loyalty Program	Update customer status based on purchase history	Enables personalized marketing and drives repeat sales
+Proactive Stock Alerts	Email warehouse when stock < 5 units	Prevents stockouts and maintains operational continuity
+Scheduled Bulk Order Updates	Process orders and update inventory at midnight daily	Keeps financial and inventory data current and accurate
+Why It Matters
+Customer Engagement: Timely emails and personalized loyalty incentives strengthen brand loyalty.
+
+Operational Agility: Real-time alerts and scheduled updates streamline logistics.
+
+Data Accuracy: UI-integrated validation ensures reliable insights across departments.
